@@ -17,5 +17,8 @@
 #### 2022
 - Getting Started With Test Automation In Flutter [Automation Guild 2022](https://guildconferences.com/automation-guild-2022/https://guildconferences.com/automation-guild-2022/) 
 
+#### 2019
+- Make UI tests resilient at Starwest 2019 [Preview](https://www.youtube.com/watch?v=oVFfevKHAkU)
+
 
 
