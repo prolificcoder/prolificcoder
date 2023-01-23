@@ -14,6 +14,12 @@
 
 ### Public speaking
 
+#### 2023
+- Complete CI/CD with github actions at Automation Guild 2023
+[Promo Video](https://www.youtube.com/watch?v=bqjo9zv_YEc)
+
+[Full talk available at](https://guildconferences.com/ag-2023/#tve-jump-18591455231)
+
 #### 2022
 - Getting Started With Test Automation In Flutter [Automation Guild 2022](https://guildconferences.com/automation-guild-2022/https://guildconferences.com/automation-guild-2022/) 
 
