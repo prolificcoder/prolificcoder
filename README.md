@@ -34,3 +34,6 @@
 
 #### 2019
 - Make UI tests resilient at Starwest 2019 [Preview](https://www.youtube.com/watch?v=oVFfevKHAkU)
+
+#### 2015
+- Mobile first https://prezi.com/ooe3oqf7j72u/mobile-first/ 
