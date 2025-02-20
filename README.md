@@ -15,6 +15,11 @@
 
 ### Public speaking
 
+#### 2025
+- Mobile automation through Maestro, using React Native 
+[Promo Video](https://www.youtube.com/watch?v=Cxi_KQ2HwrI)
+[Full talk available (behind paywall)](https://testguild.com/my-conferences/automation-guild-2025/#tve-jump-18591455231)
+
 #### 2023
 - Complete CI/CD with github actions at Automation Guild 2023
 [Promo Video](https://www.youtube.com/watch?v=bqjo9zv_YEc)
